@@ -67,7 +67,7 @@ public class Kursbericht {
                 Am Ende des Schuljahres sollte eine große Prüfung für die Hackerman-Arbeitsgemeinschaft anstehen namens ABITUR. Um dieses überhaupt schreiben zu können,
                 wurden weitere Themen der theoretischen Informatik durch Frau Straeten eingeführt, darunter Dinge wie Graphen, Automaten(gemeint sind nicht Getraenkeautomaten, auch wenn diese für einen Informatiker sehr interessant sein können),
                 was die Köpfe der Hackermans deutlich zum Rauchen brachte.
-                Dazu kam, dass die Schutzmaßnahmen, welche die Hackermans vor dem Virus COV19, welcher jede Firewall durchbrechen konnte, schütze, den Kühlvorgang der Hackerman-Prozessoren verhinderte was zur Überhitzung beitrug.
+                Dazu kam, dass die Schutzmaßnahmen (welche die Hackermans vor dem Virus der jede Firewall durchbrechen kann schützten) den Kühlvorgang der Hackerman-Prozessoren verhinderte was zur Überhitzung beitrug.
                 Demzufolge war und wurde der Lernprozess immer langsamer. Es ging mit unserer Motivation so bergab wie mit dem Datenschutz von WhatsApp (Threema, hier könnte ihre Werbung stehen).
                 Nachdem sogut wie alle wichtigen Informationen von Frau Straeten in  unsere Festplatten eingebrannt waren, ging es nun ans üben und vertiefen. Das fand aber häufig wieder in kleineren Gemeinschaften statt oder auch alleine.
                 In selten gut besetzten Fragestunden wurde sich mehr über die aktuelle Situation aufgeregt als über Informatik unterhalten.
