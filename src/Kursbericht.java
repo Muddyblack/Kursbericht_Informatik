@@ -30,7 +30,6 @@ public class Kursbericht {
                 Aufgrund Budgetkürzungen für die Schüler der Arbeitsgemeinschaft, gab es nur Platz für 11 Hackermans und 1 Lehrer. CFG ist halt pleite (siehe nicht vorhandene Decke).
                 Diese 11 Hackermans teilten sich in 8 unerfahrene Leistungskursler und 3 unfähige Basiskursler auf. Nur der Lehrkörper war einigermaßen kompetent solang es nicht um das WLAN ging.
                 Apropos WLAN: (Zensur, Frau Straeten möchte keinen weiteren Satz über das WLAN in diesem Kursbericht sehen).
-
                 Also zurück in die digitale Welt. Neben Theoriethemen wie: (das würde den Rahmen sprengen), haben wir auch praktisch programmiert. Mehr oder weniger erfolgreich und auch mehr oder weniger selbstständig.
                 Hierbei möchten wird kurz den Bundeswettbewerb Informatik zur Sprache bringen. In der ersten Runde waren die Aufgaben für unsere, noch nicht ausgereifte Prozessortechnik, viel zu schwer,
                 sodass Verzweiflung und häufiges Fluchen ("ICH HASSE BIEBER!!11elf") keine Seltenheit war. Wir konnten ja nich wissen, dass ein Leben als Informatiker so Hardware.
@@ -55,33 +54,32 @@ public class Kursbericht {
             }
             if (hackerman.class == 12) {
                 /*
-
                 Die Sommerferien nutzten einige Hackermans um (mehr oder weniger freiwillig) ihren Keller zu verlassen, da ihnen der Gang von ihrem Keller zum Gemeinschaftskeller doch etwas fehlte.
                 Dabei kam es immer wieder zu starker Sonnenbestrahlung. Es ist wichtig zu wissen, dass die Sonne einem Hackerman mächtig zu schaffen macht.
                 Einer der Hackermans trank bei einem Ausflug so viel von einem Gesöff namens PluGIN, sodass er sich zu lange in der Sonne aufhielt.
                 Dies führte dazu, dass eine gesamte Änderung von Soft- und Hardeware stattfand und ihn die Hackerman Library verließ.
                 So mussten wir diesen zurücklassen und waren von da an nur noch 10 Hackermans.
-                Nach diesem Schock mussten wir und erst erholen. Doch dafür war keine Zeit.
+                Nach diesem Schock mussten wir uns erst erholen. Doch dafür war keine Zeit.
                 Denn alle guten Dinge sind zwei, wie wir aus dem Binärraum wissen, weshalb es natürlich auch in diesem Jahr eine Runde des Bundeswettbewerbs Informatik
-                mit neuen Aufgaben gab. Doch diesmal war unsere Prozessorentechnik so weit entwickelt, dass doch einige Lösungen für die Aufgaben vorhanden waren.
+                mit neuen Aufgaben gab. Doch diesmal war unsere Prozessortechnik so weit entwickelt, dass doch einige Lösungen für die Aufgaben vorhanden waren.
                 Es reichte jedoch noch lange nicht für einen Preis, aber wir können ja nicht als Pilotprojekt Informatik in allem Vorreiter sein und unsere Nachfolger sollen ja auch noch etwas erreichen XD.
                 Spass bei Seite.
-                Am Ende des Schuljahres sollte eine große Prüfung für die Hackerman-Arbeitgemeinschaft anstehen namens ABITUR. Um dieses überhaupt schreiben zu können,
-                wurden weitere Themen der theoretischen Informatik durch Frau Straeten eingeführt, darunter Dinge wie Graphen, Automaten(gemeint sind nicht Getraenkeautomaten, auch wenn diese für einen Informatiker sehr interesant sein können),
-                was die Köpfe der Hackermans deutlich zum rauchen brachte.
+                Am Ende des Schuljahres sollte eine große Prüfung für die Hackerman-Arbeitsgemeinschaft anstehen namens ABITUR. Um dieses überhaupt schreiben zu können,
+                wurden weitere Themen der theoretischen Informatik durch Frau Straeten eingeführt, darunter Dinge wie Graphen, Automaten(gemeint sind nicht Getraenkeautomaten, auch wenn diese für einen Informatiker sehr interessant sein können),
+                was die Köpfe der Hackermans deutlich zum Rauchen brachte.
                 Dazu kam, dass die Schutzmaßnahmen, welche die Hackermans vor dem Virus COV19, welcher jede Firewall durchbrechen konnte, schütze, den Kühlvorgang der Hackerman-Prozessoren verhinderte was zur Überhitzung beitrug.
                 Demzufolge war und wurde der Lernprozess immer langsamer. Es ging mit unserer Motivation so bergab wie mit dem Datenschutz von WhatsApp (Threema, hier könnte ihre Werbung stehen).
-                Nachdem sogut wie alle wichtigen Informationen von Frau Straeten in  unsere Fetsplatten eingebrannt waren, ging es nun ans üben und vertiefen. Das fand aber häufig wieder in kleinerern Gemeinschaften statt oder auch alleine.
+                Nachdem sogut wie alle wichtigen Informationen von Frau Straeten in  unsere Festplatten eingebrannt waren, ging es nun ans üben und vertiefen. Das fand aber häufig wieder in kleineren Gemeinschaften statt oder auch alleine.
                 In selten gut besetzten Fragestunden wurde sich mehr über die aktuelle Situation aufgeregt als über Informatik unterhalten.
+                Um das ganze überhaupt auszuhalten haben beispielsweise zwei Hackermens einen überdurchschnittlichen Koffeinkonsum durch die Zusichnahme von Kaffee und Mate was in der Vorbereitungszeit als flüssig Brot angesehen wurde.
                 Dann war es soweit, die Prüfung stand vor der Tür.
-                Alle Hackermans waren trotz ihrer gut gepflegten Filesystems doch aufgeregt trotz aller Brechnungen im Vorraus durch.
+                Alle Hackermans waren trotz ihrer gut gepflegten Filesystems doch aufgeregt trotz aller Berechnungen im Voraus durch.
                 Doch, ohne das Ergebnis zu wissen, hatten wir alle ein ganz gutes Gefühl nach der Abgabe.
-                Aber das sollte es nicht gewesen sein. Die letzte Aufgabe, die die Arbeitgemeinschaft bekam, war sich mit PHP auseinanderzusetzten und eine Webseite zu programmieren. Dass sollten auch die zwei übrigen BK-Hackermans machen.
+                Aber das sollte es nicht gewesen sein. Die letzte Aufgabe, die die Arbeitsgemeinschaft bekam, war sich mit PHP auseinanderzusetzen und eine Webseite zu programmieren. Dass sollten auch die zwei übrigen BK-Hackermans machen.
                 Da aber das Wissen und die Praxis bezüglich dieser Aufgabe fehlte, versuchten sie ihr kleines Unwissen mit einer bombastischen Präsentation zu kompensieren (Bei Interesse gerne an die 0180 6 672255 und bitte Grüße ausrichten).
                 Diese Präsentation und auch die anderen vorgestellten Webseiten waren ein gebührender Abschluss der Hackerman-Arbeitsgemeinschaft.
-                Wir wünschen allen unseren und den noch kommenden Hackermans ein erfolgreiches googlen und kopieren, gnaz nach dem Motto: Copy, Paste and improve
-                Auf ein wiedersehen in irgendwelchen LINUX-Terminals.
-
+                Wir wünschen allen unseren und den noch kommenden Hackermans ein erfolgreiches googlen und kopieren, ganz nach dem Motto: Copy, Paste and improve
+                Auf ein Wiedersehen in irgendwelchen LINUX-Terminals.
                 */
                 hackerman.addAbitur(Note == 1111b);
                 hackerman.leaveArbeitsgemeinschaft;
